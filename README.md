@@ -16,7 +16,7 @@ The purpose of this analysis was to search through Pewlett-Hackard employee reco
   
   - 64 percent of the retiring employees are Senior level employees.
   
-  - Of the 90,398 employees preparing to retire, 42,468 have held more than one position within the company.
+  - Of the 90,398 employees preparing to retire, 42,468 have held more than one position within the company as seen in the image below.
   
   ![employees_with_promotions](https://user-images.githubusercontent.com/90737940/140449667-0ad54dab-f5f2-4e2f-993d-f312b47ba723.png)
 
