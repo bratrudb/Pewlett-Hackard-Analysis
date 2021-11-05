@@ -38,6 +38,7 @@ The purpose of this analysis was to search through Pewlett-Hackard employee reco
     - 21,209 roles will need to be filled when the workers born in 1952 retire. The code to find this number can be found in the Employee_Database_Challenge.sql file.
 
   - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-    -   Yes, each department has enough retirement-ready employees to mentor the mentorship eligible employees.
+    -   Yes, each department has enough retirement-ready employees to mentor the mentorship eligible employees. The code to run this analysis can be found in the Employee_Database_Challenge.sql file.
+
 
 ![mentorship_comparison](https://user-images.githubusercontent.com/90737940/140457066-345b40cb-96b0-4132-85e8-8dc52cd99545.png)
